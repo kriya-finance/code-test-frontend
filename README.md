@@ -5,7 +5,7 @@ We have a simple open API [here](https://www.anapioficeandfire.com/api/houses) t
 ## The Exercise
 We would like you you to use HTML, CSS and ReactJS to consume the API and display the information in an organised fashion. 
 
-There is no time limit for the task but we expect you to take around 30 to 60 minutes on it. Please do not take more time than necessary. 
+There is no time limit for the task but we expect you to take between 30 and 60 minutes on it. Please do not take more time than necessary. 
 
 ### What we pay attention to when we evaluate your submission
 * Code quality and consistency
@@ -23,7 +23,6 @@ Here are guidelines on how to submit the exercise
 ### If you are in contact with our Talent Team
 * ZIP your code directory, without uncommitted / ignored files _(including node_modules)_
 * Email the submission in a zip file to our Talent team contact
-* Alternatively fork this repository, and contact our talent team with the link to the forked repository when you are ready
 
 ### Getting in contact with our talent team
 Get in touch with us via email at [recruitment@marketinvoice.com](recruitment@marketinvoice.com)!
