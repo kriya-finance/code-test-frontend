@@ -21,7 +21,7 @@ https://www.anapioficeandfire.com/api/houses
 Here are guidelines on how to submit the exercise
 
 ### If you are in contact with our Talent Team
-* ZIP your code directory, without uncommitted / ignored files _(including node_modules)_
+* ZIP your code directory. remove uncommitted / ignored files _(especially node_modules)_
 * Email the submission in a zip file to our Talent team contact
 
 ### Getting in contact with our talent team
